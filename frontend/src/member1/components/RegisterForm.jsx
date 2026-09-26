@@ -190,7 +190,7 @@ const RegisterForm = () => {
         </button>
 
             <button
-            type="button "
+            type="button"
             onClick={ () => {
               setRegisterMethod("phone");
               setError({});

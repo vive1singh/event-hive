@@ -65,7 +65,7 @@ function Navbar() {
             Log In
           </Link>
           <Link
-            to="/signup"
+            to="/register"
             className=" hidden rounded-lg  bg-primary px-4 py-2 font-medium text-white transition-colors duration-200 hover:bg-primary-dark sm:block" >
             Sign Up
           </Link>
